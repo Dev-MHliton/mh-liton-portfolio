@@ -4,8 +4,6 @@ import { IoCallOutline } from "react-icons/io5";
 import { MdOutlineMarkEmailUnread } from "react-icons/md";
 import { IoLocationOutline } from "react-icons/io5";
 
-
-
 const Footer = () => {
     return (
         <footer className="bg-[#27323f] text-white py-12 px-6 md:px-16 lg:px-24 p-3">
