@@ -17,10 +17,10 @@ const Footer = () => {
                         <h1 className='font-semibold'>GET IN TOUCH</h1>
                     </div>
                 </div>
-
                 <div className='px-15'>
-
                 </div>
+
+                {/* Location set  */}
                 <div>
                     <p className="flex  items-center gap-2 mb-2"><IoLocationOutline></IoLocationOutline>Chittagong, Dhaka, Bangladesh</p>
                     <p className="flex  items-center gap-2 mb-2"><IoCallOutline></IoCallOutline> +8801898915012</p>
