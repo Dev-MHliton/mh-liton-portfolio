@@ -21,6 +21,8 @@ const About = () => (
                 <p className='py-2'>
                     <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,expressjs,firebase,mongodb" />
                 </p>
+
+                {/* Education set  */}
                 <div className='py-3'>
                     <div className='text-2xl font-semibold'>
                         <h2>EDUCATION</h2>
