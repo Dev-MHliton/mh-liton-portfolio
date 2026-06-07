@@ -9,6 +9,7 @@ const Footer = () => {
         <footer className="bg-[#27323f] text-white py-12 px-6 md:px-16 lg:px-24 p-3">
             <div className="grid grid-cols-1 md:grid-cols-3 sm:gap-15">
 
+                {/* Get in touch  */}
                 <div>
                     <div className='flex text-center items-center'>
                         <img className='h-[50px] rounded-2xl filter brightness-0 invert' src={logo} alt="" />
