@@ -1,4 +1,4 @@
-import profile from '../assets/liton.jpg'
+import profile from '../assets/Liton.jpeg'
 
 const About = () => (
     <section id="about" className='pb-16 lg:mb-12'>
@@ -6,7 +6,7 @@ const About = () => (
             <div>
                 <img
                     src={profile}
-                    className="rounded-lg shadow-2xl md:h-[470px]"
+                    className="rounded-lg shadow-2xl md:h-[450px]"
                 />
             </div>
             <div>
