@@ -27,6 +27,8 @@ const About = () => (
                     <div className='text-2xl font-semibold'>
                         <h2>EDUCATION</h2>
                     </div>
+
+                    {/* background  */}
                     <div className='text-xl py-2'>
                         <p>BSc.(Hons.) in CSE</p>
                         <p>BGC Trust University Bangladesh</p>
