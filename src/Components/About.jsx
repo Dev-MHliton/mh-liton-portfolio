@@ -34,6 +34,7 @@ const About = () => (
                         <p>BGC Trust University Bangladesh</p>
                         <p>2020-2023</p>
                     </div>
+
                 </div>
             </div>
 

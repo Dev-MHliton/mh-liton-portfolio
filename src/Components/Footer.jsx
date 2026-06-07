@@ -18,7 +18,6 @@ const Footer = () => {
                     </div>
                 </div>
 
-
                 <div className='px-15'>
 
                 </div>
