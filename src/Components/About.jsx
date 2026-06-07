@@ -11,6 +11,8 @@ const About = () => (
                     className="rounded-lg shadow-2xl md:h-[450px]"
                 />
             </div>
+
+            {/* Introduction set  */}
             <div>
                 <h1 className="text-2xl font-bold">INTRODUCTION</h1>
                 <p className="py-3 text-xl">
@@ -30,6 +32,7 @@ const About = () => (
                     </div>
                 </div>
             </div>
+
         </div>
     </section>
 );
