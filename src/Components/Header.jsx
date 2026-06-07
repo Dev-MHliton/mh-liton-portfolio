@@ -15,6 +15,7 @@ const Header = () => {
 
     return (
         <div className="shadow-sm bg-base-100 sticky top-0 z-50">
+
             <div className="navbar px-4">
                 {/* Logo */}
                 <div className="navbar-start">
@@ -24,6 +25,7 @@ const Header = () => {
                         alt="Logo"
                     />
                 </div>
+
                 {/* Desktop Menu */}
                 <div className="navbar-center hidden lg:flex">
                     <ul className="flex items-center bg-gray-800 p-2 rounded-full text-white">
