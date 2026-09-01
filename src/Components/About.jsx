@@ -12,7 +12,7 @@ const About = () => (
                 />
             </div>
 
-            {/* Introduction set  */}
+            {/* Introduction  */}
             <div>
                 <h1 className="text-2xl font-bold">INTRODUCTION</h1>
                 <p className="py-3 text-xl">
@@ -22,7 +22,7 @@ const About = () => (
                     <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,expressjs,firebase,mongodb" />
                 </p>
 
-                {/* Education set  */}
+                {/* Education  */}
                 <div className='py-3'>
                     <div className='text-2xl font-semibold'>
                         <h2>EDUCATION</h2>
